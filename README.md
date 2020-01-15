@@ -1,2 +1,2 @@
-# Holy Grail Layout (01) Using flexbox
+# Responsive Holy Grail Layout (01) Using flexbox
  
